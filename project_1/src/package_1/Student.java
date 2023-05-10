@@ -23,7 +23,7 @@ public class Student
 			mystudent.rollNo=1;
 			System.out.println(mystudent.rollNo);
 			
-			mystudent.age=35;
+			mystudent.age=45;
 			System.out.println(mystudent.age);
 			
 			mystudent.Display1();
